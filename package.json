@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "test": "echo 'No tests available'",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
