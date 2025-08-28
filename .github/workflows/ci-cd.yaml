@@ -44,4 +44,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/whatsapp-backend:${{ github.sha }}
+          tags: ${{ secrets.DOCKER_USERNAME }}/reddit-clone:${{ github.sha }}
